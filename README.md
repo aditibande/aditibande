@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditibande
-- 👀 I’m interested in AI,Statistics
+- 👀 I’m interested in AI and statistics
 - 🌱 I’m currently learning Data Structures And Algorithms
 - 💞️ I’m looking to collaborate on projects related to my domain.
 - 📫 How to reach me @aditibande
